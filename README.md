@@ -15,11 +15,11 @@ The layout of the website is done using "Desktop sketchy GUI".
 Save the pages once you're done.
 ## OUTPUT:
 ## HOME PAGE:
-![OUTPUT](./W1.PNG)
+![output](./W1.PNG)
 ## ABOUT US:
-![OUTPUT](./W2.PNG)
+![output](./W2.PNG)
 ## ACHIEVEMENTS:
-![OUTPUT](./W3.PNG)
+![output](./W3.PNG)
 
 
 ## Result:
