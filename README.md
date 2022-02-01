@@ -14,13 +14,9 @@ The layout of the website is done using "Desktop sketchy GUI".
 ### Step 3:
 Save the pages once you're done.
 ## OUTPUT:
-## HOME PAGE:
-![output](./W1.PNG)
-## ABOUT US:
-![output](./W2.PNG)
-## ACHIEVEMENTS:
-![output](./W3.PNG)
-
+![output](W1.png)
+![output](W2.png)
+![output](W3.png)
 
 ## Result:
 Thus a wire frame is designed for a given website.
